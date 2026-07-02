@@ -145,7 +145,7 @@ Data includes:
 
 ### Live Demo
 
-> crypto-portfolio-nu-six.vercel.app
+> https://crypto-portfolio-nu-six.vercel.app/
 
 ### GitHub Repository
 
